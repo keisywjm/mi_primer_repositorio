@@ -1,3 +1,5 @@
+a <- a + c
+
 Version: 1.0
 
 RestoreWorkspace: Default
